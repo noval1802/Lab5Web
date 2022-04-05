@@ -340,6 +340,7 @@
   </body>
 </html>
 ```
+Lihat nrowser untuk melihat perubahannya
 
 ![checkbox](asset/img/checkbox.png)
 
@@ -446,8 +447,12 @@ textarea {
 }
 ```
 
+Lihat nrowser untuk melihat perubahannya
+
 ![validasi_javascript](asset/img/validasi_javascript.png)
 <br>
+
+PopUP validasi
 
 ![PopUP_validasi](asset/img/popUP_validasi.png)
 <br>
