@@ -158,6 +158,36 @@
 </html>
 ```
 
+![aritmatika](asset/img/aritmatika.png)
+
+- Sleksi kondisi if-else
+
+```html
+<html>
+  <head>
+    <title>Contoh if-else</title>
+  </head>
+  <body>
+    <script lang="javascript">
+      <!--
+          var nilai = prompt ("nilai (0-100):", 0);
+          var hasil = "";
+          if (nilai >= 60)
+          hasil = "lulus";
+          else
+          hasil = "tidak lulus";
+          document.write("hasil: " + hasil);
+      -->
+    </script>
+  </body>
+</html>
+```
+
+![input_nilai](asset/img/input_nilai.png)
+<br>
+
+![hasil_nilai](asset/img/hasil_nilai.png)
+
 - Penggunaan oprator switch untuk seleksi kondisi
 
 ```html
@@ -340,6 +370,7 @@
   </body>
 </html>
 ```
+
 Lihat nrowser untuk melihat perubahannya
 
 ![checkbox](asset/img/checkbox.png)
